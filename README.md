@@ -1,4 +1,4 @@
-[![Python application](https://github.com/satyasundar/erav3-s6/actions/workflows/python-app.yml/badge.svg)](https://github.com/satyasundar/erav3-s6/actions/workflows/python-app.yml)
+[![Build and Test](https://github.com/satyasundar/erav3-s6/actions/workflows/ml-pipeline.yml/badge.svg)](https://github.com/satyasundar/erav3-s6/actions/workflows/ml-pipeline.yml)
 
 # Optimized MNIST Model
 
