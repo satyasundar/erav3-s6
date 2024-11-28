@@ -1,4 +1,4 @@
-name: MNIST Model Pipeline
+name: Build and Test
 
 on:
   push:
