@@ -1,3 +1,5 @@
+[ERA V3 Master Repo](https://github.com/satyasundar/ERAv3)
+
 [![Build and Test](https://github.com/satyasundar/erav3-s6/actions/workflows/ml-pipeline.yml/badge.svg)](https://github.com/satyasundar/erav3-s6/actions/workflows/ml-pipeline.yml)
 
 # Optimized MNIST Model
@@ -30,9 +32,11 @@ $ python -m unittest test_model.py -v
 ```
 
 ## Jupyter Notebook File
+
 [mnist_model_notebook.ipynb](mnist_model_notebook.ipynb)
 
 ## Test Model File
+
 [test_model.py](test_model.py)
 
 ## Training Logs With 99.4% Test Accuracy, Under 20,000 Parameters, Under 20 Epochs
